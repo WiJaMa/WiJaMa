@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- - I'm a student of Chinese politics with research interests in conspiracy theories in the Chinese-speaking world. Currently, I'm working on my Master of Chinese Economic and Political Affairs at UC San Diego.
+ - I'm a student of Chinese politics with research interests in conspiracy theories in the Chinese-speaking world. I recently finished a double-major in Asian Studies and Statistisc at Brigham Young University. Currently, I'm working on my Master of Chinese Economic and Political Affairs at UC San Diego.
  - In my free time, I've also contributed writing to video game projects, none of which really got off the ground. You can see a little bit of it in Dibujaron's [Distant Horizon](https://github.com/Dibujaron/DistantHorizonServer). My favorite (mostly) completed work can be found [here](https://drive.google.com/drive/folders/1F0Lkf6WUDuqNUPIkXgukYwNnuyao0WtO?usp=drive_link).
  - I'm mostly here for class, but I'm happy to collaborate on statistics and machine learning projects related to China or Taiwan.
 
